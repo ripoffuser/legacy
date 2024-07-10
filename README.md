@@ -5,4 +5,4 @@ Official KetoCheats legacy 2018 version (CS:GO)
 loader (autoupdating) and dll (fix it yourself)
 
 # Website
-> [click](https://ketocheats.xyz)
+they got rid of it
